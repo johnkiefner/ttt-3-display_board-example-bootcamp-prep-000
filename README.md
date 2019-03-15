@@ -64,7 +64,7 @@ Our `display_board` method should print out a board that looks exactly like:
 
 In Ruby, it would be written as:
 ```
-ir
+
  ```
 
 ## Tip: Using IRB to experiment
